@@ -10,11 +10,11 @@ I am Wentao Huang and I obtained Bachelor of Engineering in **Computer Engineeri
 #### 👀 I’m interested in
 - Computer Science and Computer Engineering
 - Computer Systems
-- Pop music and Electronics
+- **Open Source Courses** about Computer Science and Engineering, e.g. CS61B, CMU15-213, MIT 6.s081, MIT 6.824 ...
+- Pop music, electronics, korean entertainment programs
 
 #### 💡 Things I am currently working on: 
 - Studying **Computer Engineering at UC San Diego**
-- Taking **Open Source Courses** about Computer Science and Engineering
 - Learning MIT 6.824 Distributed System
 - Seeking for 2023 Summer Internship in US
 
