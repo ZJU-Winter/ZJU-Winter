@@ -7,24 +7,24 @@
 
 I am Wentao Huang and I obtained Bachelor of Engineering in **Computer Engineering at Zhejiang University**
 
-#### 👀 I’m interested in
+#### 👀 Things I am interested in
 - Computer Science and Computer Engineering
 - Computer Systems
-- **Open Source Courses** about Computer Science and Engineering, **after finishing a course, I will make the repo private**
+- **Open Source Courses** about Computer Science and Engineering
 - Pop music, electronics, korean entertainment programs
 
-#### 💡 Things I am currently working on: 
+#### 💡 Things I am currently working on
 - Studying **Computer Engineering at UC San Diego**
 - Learning MIT 6.824 Distributed System
+- Keep improving my tech skills
 - Seeking for 2023 Summer Internship in US
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
+#### :muscle: Things I am challenging myself with
+- Wake up earlier to make good use of the day
 - Coding at least 4 hours a day
-- Exercising 3 days a week
-- Keep improving my tech skills
+- Exercise 3 days a week
 
-#### :computer: Programming languages and tools:
+#### :computer: Programming languages and tools
 <p>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
