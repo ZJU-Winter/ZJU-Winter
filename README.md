@@ -10,7 +10,7 @@ I am Wentao Huang and I obtained Bachelor of Engineering in **Computer Engineeri
 #### 👀 I’m interested in
 - Computer Science and Computer Engineering
 - Computer Systems
-- **Open Source Courses** about Computer Science and Engineering, e.g. CS61B, CMU15-213, MIT 6.s081, MIT 6.824 ...
+- **Open Source Courses** about Computer Science and Engineering, **after finishing a course, I will make the repo private**
 - Pop music, electronics, korean entertainment programs
 
 #### 💡 Things I am currently working on: 
