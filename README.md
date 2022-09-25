@@ -10,7 +10,7 @@ I am Wentao Huang and I obtained Bachelor of Engineering in **Computer Engineeri
 #### 👀 Things I am interested in
 - Computer Science and Computer Engineering
 - Computer Systems
-- **Open Source Courses** about Computer Science and Engineering
+- Open Source Courses about Computer Science and Engineering
 - Pop music, electronics, korean entertainment programs
 
 #### 💡 Things I am currently working on
