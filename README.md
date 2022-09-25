@@ -5,7 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winston-huang413/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huangtt.888@gmail.com)
 
-I am Wentao Huang and I obtained Bachelor of Engineering in **Computer Engineering at Zhejiang University**
+I am Wentao Huang, a graduate student at UC San Diego learning Computer Engineering.
+
+I obtained Bachelor of Engineering degree at Zhejiang University in China.
 
 #### 👀 Things I am interested in
 - Computer Science and Computer Engineering
@@ -14,7 +16,6 @@ I am Wentao Huang and I obtained Bachelor of Engineering in **Computer Engineeri
 - Pop music, electronics, korean entertainment programs
 
 #### 💡 Things I am currently working on
-- Studying **Computer Engineering at UC San Diego**
 - Learning MIT 6.824 Distributed System
 - Keep improving my tech skills
 - Seeking for 2023 Summer Internship in US
