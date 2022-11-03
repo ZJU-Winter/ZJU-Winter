@@ -10,8 +10,7 @@ I am Wentao Huang, a graduate student at UC San Diego learning Computer Engineer
 I obtained Bachelor of Engineering degree at Zhejiang University in China.
 
 #### 👀 Things I am interested in
-- Computer Science and Computer Engineering
-- Computer Systems
+- Computer Science, Computer Engineering, Computer Systems
 - Open Source Courses about Computer Science and Engineering
 - Pop music, electronics, korean entertainment programs
 
@@ -23,7 +22,7 @@ I obtained Bachelor of Engineering degree at Zhejiang University in China.
 #### :muscle: Things I am challenging myself with
 - Wake up earlier to make good use of the day
 - Coding at least 4 hours a day
-- Exercise 3 days a week
+- Be happy when facing failures
 
 #### :computer: Programming languages and tools
 <p>
