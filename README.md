@@ -15,7 +15,7 @@ I obtained Bachelor of Engineering degree at Zhejiang University in China.
 - Pop music, electronics, korean entertainment programs
 
 #### 💡 Things I am currently working on
-- Learning Operating System, Computer Architecture and Recommendation System at UCSD
+- Learning Operating System, Computer Architecture at UCSD
 - Learning MIT 6.824 Distributed System by myself
 - Seeking for 2023 Summer Internship in US
 
