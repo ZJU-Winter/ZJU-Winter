@@ -12,7 +12,7 @@ I obtained Bachelor of Engineering degree at Zhejiang University in China.
 #### 👀 Things I am interested in
 - Computer Science, Computer Engineering, Computer Systems
 - Open Source Courses about Computer Science and Engineering
-- Pop music, Electronics, Korean Entertainment Programs and Programming
+- Pop Music, Electronics, Korean Entertainment Programs and Programming
 
 #### 💡 Things I am currently working on
 - Learning Operating System, Computer Architecture at UCSD
@@ -22,7 +22,7 @@ I obtained Bachelor of Engineering degree at Zhejiang University in China.
 #### :muscle: Things I am challenging myself with
 - Wake up earlier to make good use of the day
 - Coding at least 4 hours a day
-- Be happy when facing failures
+- Be happy and calm when facing failures
 
 #### :computer: Programming languages and tools
 <p>
