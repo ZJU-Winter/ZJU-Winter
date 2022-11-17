@@ -12,7 +12,7 @@ I obtained Bachelor of Engineering degree at Zhejiang University in China.
 #### 👀 Things I am interested in
 - Computer Science, Computer Engineering, Computer Systems
 - Open Source Courses about Computer Science and Engineering
-- Pop music, electronics, korean entertainment programs
+- Pop music, Electronics, Korean Entertainment Programs and Programming
 
 #### 💡 Things I am currently working on
 - Learning Operating System, Computer Architecture at UCSD
