@@ -11,7 +11,7 @@ I obtained Bachelor of Engineering degree at Zhejiang University in China.
 
 #### 👀 Things I am interested in
 - Computer Science, Computer Engineering, Computer Systems
-- Open Source Courses about Computer Science and Engineering
+- Open Source Courses about Computer Science and Engineering!
 - Pop Music, Electronics, Korean Entertainment Programs and Programming
 
 #### 💡 Things I am currently working on
@@ -30,6 +30,7 @@ I obtained Bachelor of Engineering degree at Zhejiang University in China.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<code><img width="4%"  src="https://user-images.githubusercontent.com/78242467/202562628-ce35529c-dd7a-4d02-8229-c6f338e5cca1.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
