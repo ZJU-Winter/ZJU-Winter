@@ -51,4 +51,4 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 
 </p>
 
-<sub>Credits to: <br/>[VectorLogZone](https://www.vectorlogo.zone/) for the wonderfull logos.</sub>
+<sub>Credits to: <br/>[VectorLogZone](https://www.vectorlogo.zone/) and [Logosearch](https://logosear.ch/search.html) for the wonderfull logos.</sub>
