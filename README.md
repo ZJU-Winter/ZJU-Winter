@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winston-huang413/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huangtt.888@gmail.com)
 
-I am Wentao Huang, a graduate student at UC San Diego learning Computer Engineering.
+I am Wentao(Stevie) Huang, a graduate student at UC San Diego learning Computer Engineering.
 
 I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University#Rankings_and_reputation) in China.
 
