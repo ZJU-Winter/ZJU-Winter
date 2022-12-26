@@ -7,7 +7,7 @@
 
 I am Wentao Huang, a graduate student at UC San Diego learning Computer Engineering.
 
-I obtained Bachelor of Engineering degree at Zhejiang University in China.
+I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University#Rankings_and_reputation) in China.
 
 #### 👀 Things I am interested in
 - Computer Science, Computer Engineering, Computer Systems
