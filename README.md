@@ -11,11 +11,12 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 
 #### 👀 Things I am interested in
 - Computer Science, Computer Engineering, Computer Systems
-- Open Source Courses about Computer Science and Engineering!
+- Open Source Courses about Computer Science and Engineering
 - Pop Music, Electronics, Korean Entertainment Programs and Programming
 
 #### 💡 Things I am currently working on
-- Learning Operating System, Computer Architecture at UCSD
+- Learning CSE 224(Graduate Network System), CSE 221(Operating System) at UCSD
+- Learning CMU 15-445 Database System by myself
 - Learning MIT 6.824 Distributed System by myself
 - Seeking for 2023 Summer Internship in US
 
@@ -47,6 +48,7 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+![c-cpp](https://user-images.githubusercontent.com/78242467/209582474-5e71b5e3-842f-4dc1-a15a-a77da0cbaa8a.svg)
 
 </p>
 
