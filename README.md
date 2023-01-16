@@ -15,7 +15,7 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 - Pop Music, Electronics, Korean Entertainment Programs and Programming
 
 #### 💡 Things I am currently working on
-- Learning CSE 224(Graduate Network System), CSE 221(Operating System) at UCSD
+- Learning CSE 224(Graduate Network System), CSE 221(Operating System) and CSE 127 (Computer Security) at UCSD
 - Learning CMU 15-445 Database System by myself
 - Learning MIT 6.824 Distributed System by myself
 - Seeking for 2023 Summer Internship in US
