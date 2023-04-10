@@ -15,8 +15,7 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 - Pop Music, Electronics, Korean Entertainment Programs and Programming
 
 #### 💡 Things I am currently working on
-- Learning CSE 224(Graduate Network System), CSE 221(Operating System) and CSE 127 (Computer Security) at UCSD
-- Learning CMU 15-445 Database System by myself
+- Learning CSE 131(Compiler Construction), CSE 132C(Database System Implementation) and ECE 285 (Visual Learning) at UCSD
 - Learning MIT 6.824 Distributed System by myself
 
 #### :muscle: Things I am challenging myself with
@@ -26,11 +25,11 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 
 #### :computer: Programming languages and tools
 <p>
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <code><img width="5%"  src="https://user-images.githubusercontent.com/78242467/202562628-ce35529c-dd7a-4d02-8229-c6f338e5cca1.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
