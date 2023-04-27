@@ -15,7 +15,7 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 - Pop Music, Electronics, Korean Entertainment Programs and Programming
 
 #### 💡 Things I am currently working on
-- Learning CSE 131(Compiler Construction), CSE 132C(Database System Implementation) and ECE 285 (Visual Learning) at UCSD
+- Learning CSE 231(Compiler Construction), CSE 132C(Database System Implementation) and ECE 285 (Visual Learning) at UCSD
 - Learning MIT 6.824 Distributed System by myself
 
 #### :muscle: Things I am challenging myself with
