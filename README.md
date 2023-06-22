@@ -15,7 +15,7 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 - Pop Music, Electronics, Korean Entertainment Programs and Programming
 
 #### 💡 Things I am currently working on
-- Having a internship at Equinix as a SDE - Edge Infrastructure
+- Working as a SDE intern - Edge Infrastructure at Equinix
 - Learning MIT 6.824 Distributed System by myself
 
 #### :muscle: Things I am challenging myself with
