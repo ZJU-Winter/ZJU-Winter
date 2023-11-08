@@ -12,10 +12,11 @@ I obtained Bachelor of Engineering degree at [Zhejiang University](https://en.wi
 #### 👀 Things I am interested in
 - Computer Science, Computer Engineering, Computer Systems
 - Open Source Courses about Computer Science and Engineering
-- Pop Music, Electronics, Korean Entertainment Programs and Programming
+- Pop Music, Electronics and Programming
 
 #### 💡 Things I am currently working on
-- Working as a SDE intern - Edge Infrastructure at Equinix
+- Learning UCSD CSE 167 Computer Graphics for fun
+- Learning CMU 15-445 Database System by myself
 - Learning MIT 6.824 Distributed System by myself
 
 #### :muscle: Things I am challenging myself with
